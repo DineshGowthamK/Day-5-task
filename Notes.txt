@@ -1,0 +1,17 @@
+/*const fruits= ["🍎","🍌","🍍"];
+const [apple, , ,watermelon="🍉"]=fruits;
+console.log(apple);
+console.log(fruits);
+console.log(watermelon);*/
+ /*const grocery =[
+    {item: "Apple",price:25,category:"fruit"},
+    {item : "salt",price:50,category:"misc"}
+ ]
+ for(let i=0;i<grocery.length;i++){
+ const[{item,price}]=grocery;
+ console.log(item);
+ console.log(price);
+ }*/
+ const arr=["guvi"];
+ console.log(...arr);
+ console.log(...arr);
